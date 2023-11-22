@@ -1,0 +1,11 @@
+.back{
+    background-color: bisque;
+    /* width:25%; */
+    text-align: center;
+    padding:10px;
+    border:1px solid grey;
+}
+.butt{
+    background-color: black;
+    color:bisque;
+}
